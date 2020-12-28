@@ -9,4 +9,4 @@ I am maintance some site for serving programming literature in Bahasa.
 
 #### Donation
 
-If you wanna send me some tip, you can [send it here](https://saweria.co/onigura).
+If you wanna send me some tip, you can [send it here](https://saweria.co/onigura). This could be helpful to me due mental conditions.
