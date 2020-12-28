@@ -1,6 +1,9 @@
 ### About me
 
-I am a student and intrested with programming especially functional and system programming, but not limited to thing still relevance with computer science.
+I am a student and intrested with programming especially functional and system programming,
+ but not limited to thing still relevance with computer science.
+ 
+Another details : FOSS supporter.
 
 ### Sites
 
@@ -9,4 +12,4 @@ I am maintance some site for serving programming literature in Bahasa.
 
 #### Donation
 
-If you wanna send me some tip, you can [send it here](https://saweria.co/onigura). This could be helpful to me due mental conditions.
+If you wanna send me some tip, you can [send it here](https://saweria.co/onigura).
