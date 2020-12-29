@@ -3,7 +3,7 @@
 I am a student and intrested with programming especially functional and system programming,
  but not limited to thing still relevance with computer science.
  
-Another details : FOSS supporter.
+Another details : FOSS supporter, Data scientist wanna be.
 
 ### Sites
 
