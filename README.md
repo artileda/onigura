@@ -7,7 +7,7 @@ Another details : FOSS supporter, Data scientist wanna be, and love solving prob
 
 ### Sites
 
-I am maintance some site for serving programming literature in Bahasa.
+I am maintaning some site for serving programming literature in Bahasa.
 - [Tutorial Koding](https://tutorialkoding.netlify.app)
 
 #### Donation
