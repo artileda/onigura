@@ -1,1 +1,2 @@
-![Metrics](https://metrics.lecoq.io/onigura?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2Ccss%2Ctypescript%2Cjavascript%2Cshell%2Csml%2Cshell%2Cc%2B%2B%2Cc%23%2Cjava%2Cswift%2Ckotlin%2Cmakefile&languages.colors=github&languages.details=percentage&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](./onigura.svg)
+
